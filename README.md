@@ -2,7 +2,7 @@
 
 ## Description
 
-Este proyecto es una calculadora sencilla desarrollada en Java utilizando Swing. Permite ingresar dos números, sumarlos y mostrar el resultado en la interfaz gráfica.
+Este proyecto es una calculadora sencilla desarrollada en Java Swing. Permite ingresar dos números, sumarlos y mostrar el resultado en la interfaz gráfica.
 
 ## Technologies I used
 
