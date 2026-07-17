@@ -30,4 +30,4 @@ Este proyecto fue desarrollado como parte de mi proceso de aprendizaje en Java p
 
   ## Author
   **Tomas Hernández**
-  Github: **Tommy-Dev0520**
+  - Github: **Tommy-Dev0520**
